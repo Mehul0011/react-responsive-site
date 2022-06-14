@@ -1,3 +1,8 @@
+Created a simple website with in React 
+    - with modern clean ui.
+    - Completely responsive on all devices.
+    - reusable components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
